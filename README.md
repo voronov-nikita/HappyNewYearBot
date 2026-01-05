@@ -1,2 +1,12 @@
+![happy bot](./trash/logo-happybot.jpg)
+
 # HappyNewYearBot
-Telegram bot, which was invented and developed for a small quest, after completing which the user will receive some kind of gift.
+
+> [!TIP]
+> Telegram-бот, который был придуман и 
+> разработан для небольшого квеста, 
+> после выполнения которого пользователь получит 
+> какой-нибудь подарок.
+>
+
+
