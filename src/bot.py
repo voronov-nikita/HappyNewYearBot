@@ -237,7 +237,7 @@ def get_main_keyboard():
 
 def main():
     """Основная функция запуска бота"""
-    TOKEN = "8061720392:AAE-ELJI9P3Do3EAyGloHErdmAWXF088LU0"
+    TOKEN = ""
 
     # Создаем приложение с настройками
     application = Application.builder()\
